@@ -26,4 +26,12 @@ Beyond High-Risk ML auditing, the toolkit aims to include:
 ## Getting Started  
 1. Clone the repository:  
    ```bash  
-   git clone https://github.com/lherrear-db/RAID.git  
+   git clone https://github.com/lherrear-db/RAID.git
+   ```
+2. Follow the Documentation for setup and usage instructions for each tool.
+
+## Contributing
+Contributions are welcome! Please see the CONTRIBUTING.md for guidelines.
+
+## License
+This project is licensed under the MIT License - see the LICENSE file for details.
