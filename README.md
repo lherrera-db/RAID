@@ -13,11 +13,20 @@ The first set of tools included in this repository is tailored for auditing and 
 - **Bias and Fairness Assessments**: Identifying and mitigating unfair biases in ML models.  
 - **Risk Assessment Templates**: Prebuilt frameworks to classify and assess risks.  
 
+### Responsible AI Resources
+
+#### Databricks
+These resources provide a comprehensive overview of Databricks' approach to responsible AI, covering aspects such as security, governance, regulatory compliance, and ethical considerations in AI development and deployment.
+[Amazing Responsible AI resources]("Amazing Responsible AI resources/Databricks and Responsible AI")
+
+#### Generic
+
 ### Why This Toolkit?  
 With regulations like the EU AI Act imposing stringent requirements for auditing High-Risk AI systems, organizations need robust solutions to ensure compliance. This toolkit is specifically built for **Databricks** users, leveraging the platform's capabilities to streamline Responsible AI practices.  
 
 ## Features (Planned Additions)  
 Beyond High-Risk ML auditing, the toolkit aims to include:  
+
 1. Tools for ongoing **AI compliance monitoring**.  
 2. Frameworks for implementing **ethical AI principles**.  
 3. Integration examples for **governance workflows** on Databricks.  
