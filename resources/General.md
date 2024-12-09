@@ -1,5 +1,5 @@
 
-By combining these tools, developers can address multiple aspects of responsible AI, from model development and evaluation to data privacy and protection. This comprehensive approach aligns with the growing emphasis on ethical and responsible AI practices across industries[2][3].
+By combining these tools, developers can address multiple aspects of responsible AI, from model development and evaluation to data privacy and protection. This comprehensive approach aligns with the growing emphasis on ethical and responsible AI practices across industries>
 
 1. [Microsoft's Responsible AI Toolbox](https://github.com/mit-ll-responsible-ai/responsible-ai-toolbox): This open-source library provides PyTorch-centric tools for evaluating and enhancing both the robustness and explainability of AI models[4]. It offers high-quality resources for responsible AI development, working seamlessly with PyTorch Lightning and Hydra frameworks.
 
