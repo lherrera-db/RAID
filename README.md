@@ -15,9 +15,11 @@ The first set of tools included in this repository is tailored for auditing and 
 
 ### Responsible AI Resources
 
+
 #### Databricks
 These resources provide a comprehensive overview of Databricks' approach to responsible AI, covering aspects such as security, governance, regulatory compliance, and ethical considerations in AI development and deployment.
-[Amazing Responsible AI resources]("Amazing Responsible AI resources/Databricks and Responsible AI")
+
+- [Amazing Responsible AI resources]("./resources/Databricks and Responsible AI")
 
 #### Generic
 
