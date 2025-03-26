@@ -14,16 +14,16 @@ The first set of tools included in this repository is tailored for auditing and 
 - **Risk Assessment Templates**: Prebuilt frameworks to classify and assess risks.  
 
 
-### Reources
+### Resources
 
 #### Databricks
 These resources provide a comprehensive overview of Databricks' approach to responsible AI, covering aspects such as security, governance, regulatory compliance, and ethical considerations in AI development and deployment.
 
-- [Amazing Responsible AI resources](resources/Databricks and Responsible AI.md)
+- [Amazing Responsible AI resources](resources/Databricks%20and%20Responsible%20AI.md)
 
 
 #### General
-- [Amazing, top regarded, Responsible AI resources] (resources/General.md)
+- [Amazing, top regarded, Responsible AI resources](resources/General.md)
   
 
 ### Why This Toolkit?  
@@ -41,11 +41,3 @@ Beyond High-Risk ML auditing, the toolkit aims to include:
 1. Clone the repository:  
    ```bash  
    git clone https://github.com/lherrera-db/RAID.git
-   ```
-2. Follow the Documentation for setup and usage instructions for each tool.
-
-## Contributing
-Contributions are welcome! Please see the CONTRIBUTING.md for guidelines.
-
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
